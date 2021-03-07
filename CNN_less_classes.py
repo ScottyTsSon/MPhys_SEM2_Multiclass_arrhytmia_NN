@@ -39,7 +39,7 @@ for i in range(12000):
 
 # Parameters
 params = {'dim': (128,128),
-          'batch_size': 25,
+          'batch_size': 100,
           'n_classes': 6,
           'n_channels': 2,
           'shuffle': True}
